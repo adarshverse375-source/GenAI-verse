@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)" />
+  <g transform="translate(51, 51) scale(0.8)">
+    <!-- Mortarboard Cap / Graduation Symbol -->
+    <path d="M256 120 L400 190 L256 260 L112 190 Z" fill="#ffffff" />
+    <path d="M160 216 V290 C160 340 352 340 352 290 V216 L256 264 Z" fill="#f8fafc" opacity="0.95" />
+    <!-- Tassel -->
+    <path d="M376 195 V280" stroke="#fde047" stroke-width="8" stroke-linecap="round" />
+    <circle cx="376" cy="285" r="10" fill="#fde047" />
+    <!-- Sparkle Star -->
+    <path d="M256 320 Q256 360 296 360 Q256 360 256 400 Q256 360 216 360 Q256 360 256 320 Z" fill="#fde047" />
+  </g>
+</svg>
