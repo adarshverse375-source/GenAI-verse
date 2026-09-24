@@ -6,7 +6,7 @@ export const CBSE_CHAPTERS: Chapter[] = [
     name: 'Real Numbers',
     subject: 'Mathematics',
     keySummary: [
-      ' Hey this is AdarshThe Fundamental Theorem of Arithmetic states that every composite number can be uniquely expressed as a product of prime numbers, up to the order of factors.',
+      'The Fundamental Theorem of Arithmetic states that every composite number can be uniquely expressed as a product of prime numbers, up to the order of factors.',
       'For any two positive integers a and b, HCF(a, b) × LCM(a, b) = a × b.',
       'An irrational number cannot be written as a ratio of integers. Examples include √2, √3, √5, and π.',
       'If p is a prime number and p divides a² (where a is a positive integer), then p divides a.'
